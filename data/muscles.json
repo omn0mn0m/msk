@@ -1,0 +1,232 @@
+{
+    "muscles": [
+        {
+            "name": "gluteus maximus",
+            "section": "gluteal area",
+            "compartment": "",
+            "attachments": [
+                "ilium (gluteal surface, posterior part)",
+                "sacrum (dorsal surface, lateral part)",
+                "thoracolumbar fascia",
+                "sacrotuberous ligament",
+                "iliotibial tract",
+                "gluteal tuberosity"
+            ],
+            "functions": {
+                "hip": [
+                    "extension",
+                    "lateral rotation",
+                    "abduction (upper fibers)",
+                    "adduction (lower fibers)"
+                ]
+            },
+            "innervations": [
+                "inferior gluteal n."
+            ],
+            "blood supply": [
+                "superior gluteal a.",
+                "inferior gluteal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "gluteus medius",
+            "section": "gluteal area",
+            "compartment": "",
+            "attachments": [
+                "ilium (gluteal surface below iliac crest)",
+                "greater trochanter of the femur (lateral surface)"
+            ],
+            "functions": {
+                "hip": [
+                    "medial rotation",
+                    "abduction"
+                ]
+            },
+            "innervations": [
+                "superior gluteal n."
+            ],
+            "blood supply": [
+                "superior gluteal a.",
+                "inferior gluteal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "gluteus minimus",
+            "section": "gluteal area",
+            "compartment": "",
+            "attachments": [
+                "ilium (gluteal surface below gluteus medius)",
+                "greater trochanter of the femur (anterolateral surface)"
+            ],
+            "functions": {
+                "hip": [
+                    "medial rotation",
+                    "abduction"
+                ]
+            },
+            "innervations": [
+                "superior gluteal n."
+            ],
+            "blood supply": [
+                "superior gluteal a.",
+                "inferior gluteal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "tensor fascia latae",
+            "section": "gluteal area",
+            "compartment": "",
+            "attachments": [
+                "anterior superior iliac spine",
+                "iliotibial tract"
+            ],
+            "functions": {
+                "hip": [
+                    "internal rotation",
+                    "abduction",
+                    "flexion"
+                ]
+            },
+            "innervations": [
+                "superior gluteal n."
+            ],
+            "blood supply": [
+                "superior gluteal a.",
+                "inferior gluteal a."
+            ],
+            "notes": [
+                "tenses the fascia lata"
+            ]
+        },
+        {
+            "name": "piriformis",
+            "section": "gluteal area",
+            "compartment": "lateral rotator",
+            "attachments": [
+                "sacrotuberous ligament",
+                "sacrum",
+                "greater trochanter"
+            ],
+            "functions": {
+                "hip": [
+                    "lateral rotation",
+                    "abduction"
+                ]
+            },
+            "innervations": [
+                "sacral plexus"
+            ],
+            "blood supply": [
+                "inferior gluteal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "superior gemellus",
+            "section": "gluteal area",
+            "compartment": "lateral rotator",
+            "attachments": [
+                "ischial spine",
+                "greater trochanter"
+            ],
+            "functions": {
+                "hip": [
+                    "lateral rotation",
+                    "abduction"
+                ]
+            },
+            "innervations": [
+                "lumbar plexus"
+            ],
+            "blood supply": [
+                "inferior gluteal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "inferior gemellus",
+            "section": "gluteal area",
+            "compartment": "lateral rotator",
+            "attachments": [
+                "ischial tuberosity",
+                "greater trochanter"
+            ],
+            "functions": {
+                "hip": [
+                    "lateral rotation",
+                    "abduction"
+                ]
+            },
+            "innervations": [
+                "nerve to quadratus femoris"
+            ],
+            "blood supply": [
+                "medial circumflex femoral a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "obturator internus",
+            "section": "gluteal area",
+            "compartment": "lateral rotator",
+            "attachments": [
+                "obturator membrane",
+                "greater trochanter"
+            ],
+            "functions": {
+                "hip": [
+                    "lateral rotation",
+                    "abduction"
+                ]
+            },
+            "innervations": [
+                "lumbar plexus"
+            ],
+            "blood supply": [
+                "superior gluteal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "quadratus femoris",
+            "section": "gluteal area",
+            "compartment": "lateral rotator",
+            "attachments": [
+                "ischial tuberosity",
+                "quadrate tubercle"
+            ],
+            "functions": {
+                "hip": [
+                    "lateral rotation"
+                ]
+            },
+            "innervations": [
+                "nerve to quadratus femoris"
+            ],
+            "blood supply": [
+                "inferior gluteal a.",
+                "large branch of the internal iliac a."
+            ],
+            "notes": []
+        },
+                {
+            "name": "",
+            "attachments": [
+                
+            ],
+            "functions": {
+                
+            },
+            "innervations": [
+                
+            ],
+            "blood supply": [
+                
+            ],
+            "notes": []
+        }
+    ]
+}
