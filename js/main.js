@@ -1,19 +1,18 @@
 const columnDefs = [
-    { field: "name", sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
-    { field: "section", rowGroup: true, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
-    { field: "compartment", enableRowGroup: true, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
-    { field: "attachments", sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
+    { field: "name" },
+    { field: "section", enableRowGroup: true },
+    { field: "compartment", enableRowGroup: true },
     { 
-        field: "functions", 
-        cellRenderer: FunctionsCellRenderer, 
-        sortable: true, 
-        filter: true, 
-        resizable: true, 
-        autoHeight: true, 
-        wrapText: true },
-    { field: "innervations", enableRowGroup: true, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
-    { field: "blood supply", enableRowGroup: true, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
-    { field: "notes" },
+        field: "attachments",
+        cellRenderer: CellListRenderer,
+    },
+    { 
+        field: "actions", 
+        cellRenderer: CellListRenderer,
+    },
+    { field: "innervations", enableRowGroup: true },
+    { field: "blood supply", enableRowGroup: true },
+    { field: "notes", filter: false, sortable: false},
 ];
 
 // let the grid know which columns and what data to use
@@ -21,7 +20,15 @@ const gridOptions = {
     columnDefs: columnDefs,
     groupDisplayType: 'groupRows',
     rowGroupPanelShow: 'always',
-    suppressDragLeaveHidesColumns: true,
+    
+    defaultColDef: {
+        sortable: true, 
+        filter: true, 
+        resizable: true, 
+        autoHeight: true, 
+        wrapText: true, 
+        floatingFilter: true,
+    },
 };
 
 const gridDiv = document.querySelector('#myGrid');

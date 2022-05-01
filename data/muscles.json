@@ -12,14 +12,12 @@
                 "iliotibial tract",
                 "gluteal tuberosity"
             ],
-            "functions": {
-                "hip": [
-                    "extension",
-                    "lateral rotation",
-                    "abduction (upper fibers)",
-                    "adduction (lower fibers)"
-                ]
-            },
+            "actions": [
+                "hip extension",
+                "hip lateral rotation",
+                "hip abduction (upper fibers)",
+                "hip adduction (lower fibers)"
+            ],
             "innervations": [
                 "inferior gluteal n."
             ],
@@ -37,12 +35,10 @@
                 "ilium (gluteal surface below iliac crest)",
                 "greater trochanter of the femur (lateral surface)"
             ],
-            "functions": {
-                "hip": [
-                    "medial rotation",
-                    "abduction"
-                ]
-            },
+            "actions": [
+                "hip medial rotation",
+                "hip abduction"
+            ],
             "innervations": [
                 "superior gluteal n."
             ],
@@ -60,12 +56,10 @@
                 "ilium (gluteal surface below gluteus medius)",
                 "greater trochanter of the femur (anterolateral surface)"
             ],
-            "functions": {
-                "hip": [
-                    "medial rotation",
-                    "abduction"
-                ]
-            },
+            "actions": [
+                "hip medial rotation",
+                "hip abduction"
+            ],
             "innervations": [
                 "superior gluteal n."
             ],
@@ -83,13 +77,11 @@
                 "anterior superior iliac spine",
                 "iliotibial tract"
             ],
-            "functions": {
-                "hip": [
-                    "internal rotation",
-                    "abduction",
-                    "flexion"
-                ]
-            },
+            "actions": [
+                "hip internal rotation",
+                "hip abduction",
+                "hip flexion"
+            ],
             "innervations": [
                 "superior gluteal n."
             ],
@@ -110,12 +102,10 @@
                 "sacrum",
                 "greater trochanter"
             ],
-            "functions": {
-                "hip": [
-                    "lateral rotation",
-                    "abduction"
-                ]
-            },
+            "actions": [
+                "hip lateral rotation",
+                "hip abduction"
+            ],
             "innervations": [
                 "sacral plexus"
             ],
@@ -132,12 +122,10 @@
                 "ischial spine",
                 "greater trochanter"
             ],
-            "functions": {
-                "hip": [
-                    "lateral rotation",
-                    "abduction"
-                ]
-            },
+            "actions": [
+                "hip lateral rotation",
+                "hip abduction"
+            ],
             "innervations": [
                 "lumbar plexus"
             ],
@@ -154,12 +142,10 @@
                 "ischial tuberosity",
                 "greater trochanter"
             ],
-            "functions": {
-                "hip": [
-                    "lateral rotation",
-                    "abduction"
-                ]
-            },
+            "actions": [
+                "hip lateral rotation",
+                "hip abduction"
+            ],
             "innervations": [
                 "nerve to quadratus femoris"
             ],
@@ -176,12 +162,10 @@
                 "obturator membrane",
                 "greater trochanter"
             ],
-            "functions": {
-                "hip": [
-                    "lateral rotation",
-                    "abduction"
-                ]
-            },
+            "actions": [
+                "hip lateral rotation",
+                "hip abduction"
+            ],
             "innervations": [
                 "lumbar plexus"
             ],
@@ -198,11 +182,9 @@
                 "ischial tuberosity",
                 "quadrate tubercle"
             ],
-            "functions": {
-                "hip": [
-                    "lateral rotation"
-                ]
-            },
+            "actions": [
+                "hip lateral rotation"
+            ],
             "innervations": [
                 "nerve to quadratus femoris"
             ],
@@ -221,12 +203,10 @@
                 "lumbar vertebrae trasnverse processes ",
                 "lesser trochanter of femur"
             ],
-            "functions": {
-                "hip": [
-                    "flexion",
-                    "lateral rotation"
-                ]
-            },
+            "actions": [
+                "hip flexion",
+                "hip lateral rotation"
+            ],
             "innervations": [
                 "anterior rami of L2, L3"
             ],
@@ -245,12 +225,10 @@
                 "iliac fossa",
                 "lesser trochanter of femur"
             ],
-            "functions": {
-                "hip": [
-                    "flexion",
-                    "lateral rotation"
-                ]
-            },
+            "actions": [
+                "hip flexion",
+                "hip lateral rotation"
+            ],
             "innervations": [
                 "femoral n."
             ],
@@ -269,11 +247,9 @@
                 "anterior distal femoral shaft",
                 "apex of suprapatellar bursa"
             ],
-            "functions": {
-                "suprapatellar bursa": [
-                    "superior retraction on knee extension"
-                ]
-            },
+            "actions": [
+                "suprapatellar bursa superior retraction on knee extension"
+            ],
             "innervations": [
                 "femoral n."
             ],
@@ -288,17 +264,13 @@
                 "anterior superior iliac spine",
                 "medial to the tibial tuberosity"
             ],
-            "functions": {
-                "hip": [
-                    "flexion",
-                    "lateral rotation",
-                    "abduction"
-                ],
-                "knee": [
-                    "flexion",
-                    "medial rotation"
-                ]
-            },
+            "actions": [
+                "hip flexion",
+                "hip lateral rotation",
+                "hip abduction",
+                "knee flexion",
+                "knee medial rotation"
+            ],
             "innervations": [
                 "femoral n."
             ],
@@ -318,14 +290,10 @@
                 "acetabular roof of hip joint",
                 "tibial tuberosity"
             ],
-            "functions": {
-                "hip": [
-                    "flexion"
-                ],
-                "knee": [
-                    "extension"
-                ]
-            },
+            "actions": [
+                "hip flexion",
+                "knee extension"
+            ],
             "innervations": [
                 "femoral n."
             ],
@@ -343,11 +311,9 @@
                 "greater trochanter (lateral surface)",
                 "tibial tuberosity"
             ],
-            "functions": {
-                "knee": [
-                    "extension"
-                ]
-            },
+            "actions": [
+                "knee extension"
+            ],
             "innervations": [
                 "femoral n."
             ],
@@ -364,11 +330,9 @@
                 "femoral shaft (anterior side)",
                 "tibial tuberosity"
             ],
-            "functions": {
-                "knee": [
-                    "extension"
-                ]
-            },
+            "actions": [
+                "knee extension"
+            ],
             "innervations": [
                 "femoral n."
             ],
@@ -386,11 +350,9 @@
                 "intertrochanteric line (distal part)",
                 "tibial tuberosity"
             ],
-            "functions": {
-                "knee": [
-                    "extension"
-                ]
-            },
+            "actions": [
+                "knee extension"
+            ],
             "innervations": [
                 "femoral n."
             ],
@@ -406,9 +368,9 @@
             "attachments": [
                 
             ],
-            "functions": {
-                
-            },
+            "actions": [
+
+            ],
             "innervations": [
                 
             ],
