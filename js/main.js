@@ -3,9 +3,16 @@ const columnDefs = [
     { field: "section", rowGroup: true, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
     { field: "compartment", enableRowGroup: true, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
     { field: "attachments", sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
-    { field: "functions", cellRenderer: FunctionsCellRenderer, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
-    { field: "innervations", sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
-    { field: "blood supply", sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
+    { 
+        field: "functions", 
+        cellRenderer: FunctionsCellRenderer, 
+        sortable: true, 
+        filter: true, 
+        resizable: true, 
+        autoHeight: true, 
+        wrapText: true },
+    { field: "innervations", enableRowGroup: true, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
+    { field: "blood supply", enableRowGroup: true, sortable: true, filter: true, resizable: true, autoHeight: true, wrapText: true },
     { field: "notes" },
 ];
 

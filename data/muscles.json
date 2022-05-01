@@ -212,8 +212,197 @@
             ],
             "notes": []
         },
-                {
+        {
+            "name": "psoas major",
+            "section": "thigh",
+            "compartment": "anterior",
+            "attachments": [
+                "T12-L5 vertebral sides",
+                "lumbar vertebrae trasnverse processes ",
+                "lesser trochanter of femur"
+            ],
+            "functions": {
+                "hip": [
+                    "flexion",
+                    "lateral rotation"
+                ]
+            },
+            "innervations": [
+                "anterior rami of L2, L3"
+            ],
+            "blood supply": [
+                "lumbar branch of iliolumbar a."
+            ],
+            "notes": [
+                "standing stability"
+            ]
+        },
+        {
+            "name": "iliacus",
+            "section": "thigh",
+            "compartment": "anterior",
+            "attachments": [
+                "iliac fossa",
+                "lesser trochanter of femur"
+            ],
+            "functions": {
+                "hip": [
+                    "flexion",
+                    "lateral rotation"
+                ]
+            },
+            "innervations": [
+                "femoral n."
+            ],
+            "blood supply": [
+                "lumbar branch of iliolumbar a."
+            ],
+            "notes": [
+                "standing stability"
+            ]
+        },
+        {
+            "name": "articularis genu",
+            "section": "thigh",
+            "compartment": "anterior",
+            "attachments": [
+                "anterior distal femoral shaft",
+                "apex of suprapatellar bursa"
+            ],
+            "functions": {
+                "suprapatellar bursa": [
+                    "superior retraction on knee extension"
+                ]
+            },
+            "innervations": [
+                "femoral n."
+            ],
+            "blood supply": [],
+            "notes": []
+        },
+        {
+            "name": "sartorius",
+            "section": "thigh",
+            "compartment": "anterior",
+            "attachments": [
+                "anterior superior iliac spine",
+                "medial to the tibial tuberosity"
+            ],
+            "functions": {
+                "hip": [
+                    "flexion",
+                    "lateral rotation",
+                    "abduction"
+                ],
+                "knee": [
+                    "flexion",
+                    "medial rotation"
+                ]
+            },
+            "innervations": [
+                "femoral n."
+            ],
+            "blood supply": [
+                "superficial femoral a."
+            ],
+            "notes": [
+                "tailor's muscle"
+            ]
+        },
+        {
+            "name": "rectus femoris",
+            "section": "thigh",
+            "compartment": "anterior",
+            "attachments": [
+                "anterior inferior iliac spine",
+                "acetabular roof of hip joint",
+                "tibial tuberosity"
+            ],
+            "functions": {
+                "hip": [
+                    "flexion"
+                ],
+                "knee": [
+                    "extension"
+                ]
+            },
+            "innervations": [
+                "femoral n."
+            ],
+            "blood supply": [
+                "superficial femoral a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "vastus lateralis",
+            "section": "thigh",
+            "compartment": "anterior",
+            "attachments": [
+                "linea aspera (lateral lip)",
+                "greater trochanter (lateral surface)",
+                "tibial tuberosity"
+            ],
+            "functions": {
+                "knee": [
+                    "extension"
+                ]
+            },
+            "innervations": [
+                "femoral n."
+            ],
+            "blood supply": [
+                "superficial femoral a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "vastus intermedius",
+            "section": "thigh",
+            "compartment": "anterior",
+            "attachments": [
+                "femoral shaft (anterior side)",
+                "tibial tuberosity"
+            ],
+            "functions": {
+                "knee": [
+                    "extension"
+                ]
+            },
+            "innervations": [
+                "femoral n."
+            ],
+            "blood supply": [
+                "superficial femoral a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "vastus medialus",
+            "section": "thigh",
+            "compartment": "anterior",
+            "attachments": [
+                "linea aspera (media; lip)",
+                "intertrochanteric line (distal part)",
+                "tibial tuberosity"
+            ],
+            "functions": {
+                "knee": [
+                    "extension"
+                ]
+            },
+            "innervations": [
+                "femoral n."
+            ],
+            "blood supply": [
+                "superficial femoral a."
+            ],
+            "notes": []
+        },
+        {
             "name": "",
+            "section": "",
+            "compartment": "",
             "attachments": [
                 
             ],
