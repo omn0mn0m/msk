@@ -1,7 +1,7 @@
 const columnDefs = [
     { field: "name" },
-    { field: "section", enableRowGroup: true },
-    { field: "compartment", enableRowGroup: true },
+    { field: "section" },
+    { field: "compartment" },
     { 
         field: "attachments",
         cellRenderer: CellListRenderer,
@@ -10,9 +10,9 @@ const columnDefs = [
         field: "actions", 
         cellRenderer: CellListRenderer,
     },
-    { field: "innervations", enableRowGroup: true },
-    { field: "blood supply", enableRowGroup: true },
-    { field: "notes", filter: false, sortable: false},
+    { field: "innervations" },
+    { field: "blood supply" },
+    { field: "notes", filter: false, sortable: false, enableRowGroup: false},
 ];
 
 const toolPanelParams = {
@@ -47,6 +47,7 @@ const gridOptions = {
         autoHeight: true, 
         wrapText: true, 
         floatingFilter: true,
+        enableRowGroup: true,
         menuTabs: [ 'generalMenuTab' ],
     },
 };
