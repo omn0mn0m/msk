@@ -1,5 +1,8 @@
 const columnDefs = [
-    { field: "name" },
+    { 
+        field: "name",
+        filter: 'agTextColumnFilter',
+    },
     { field: "section" },
     { field: "compartment" },
     { 
@@ -10,9 +13,21 @@ const columnDefs = [
         field: "actions", 
         cellRenderer: CellListRenderer,
     },
-    { field: "innervations" },
-    { field: "blood supply" },
-    { field: "notes", filter: false, sortable: false, enableRowGroup: false},
+    {
+        field: "innervations", 
+        cellRenderer: CellListRenderer,
+    },
+    { 
+        field: "blood supply", 
+        cellRenderer: CellListRenderer,
+    },
+    { 
+        field: "notes", 
+        cellRenderer: CellListRenderer,
+        filter: 'agTextColumnFilter',
+        sortable: false,
+        enableRowGroup: false
+    },
 ];
 
 const toolPanelParams = {
@@ -36,7 +51,8 @@ const gridOptions = {
                 iconKey: 'columns',
                 toolPanel: 'agColumnsToolPanel',
                 toolPanelParams: toolPanelParams,
-            }
+            },
+            'filters'
         ],
         defaultToolPanel: 'columns',
     },

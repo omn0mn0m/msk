@@ -2,8 +2,8 @@
     "muscles": [
         {
             "name": "gluteus maximus",
-            "section": "gluteal area",
-            "compartment": "",
+            "section": "hip",
+            "compartment": "gluteal region",
             "attachments": [
                 "ilium (gluteal surface, posterior part)",
                 "sacrum (dorsal surface, lateral part)",
@@ -29,11 +29,11 @@
         },
         {
             "name": "gluteus medius",
-            "section": "gluteal area",
-            "compartment": "",
+            "section": "hip",
+            "compartment": "gluteal region",
             "attachments": [
                 "ilium (gluteal surface below iliac crest)",
-                "greater trochanter of the femur (lateral surface)"
+                "greater trochanter of femur (lateral surface)"
             ],
             "actions": [
                 "hip medial rotation",
@@ -50,11 +50,11 @@
         },
         {
             "name": "gluteus minimus",
-            "section": "gluteal area",
-            "compartment": "",
+            "section": "hip",
+            "compartment": "gluteal region",
             "attachments": [
                 "ilium (gluteal surface below gluteus medius)",
-                "greater trochanter of the femur (anterolateral surface)"
+                "greater trochanter of femur (anterolateral surface)"
             ],
             "actions": [
                 "hip medial rotation",
@@ -71,8 +71,8 @@
         },
         {
             "name": "tensor fascia latae",
-            "section": "gluteal area",
-            "compartment": "",
+            "section": "hip",
+            "compartment": "gluteal region",
             "attachments": [
                 "anterior superior iliac spine",
                 "iliotibial tract"
@@ -95,7 +95,7 @@
         },
         {
             "name": "piriformis",
-            "section": "gluteal area",
+            "section": "hip",
             "compartment": "lateral rotator",
             "attachments": [
                 "sacrotuberous ligament",
@@ -116,7 +116,7 @@
         },
         {
             "name": "superior gemellus",
-            "section": "gluteal area",
+            "section": "hip",
             "compartment": "lateral rotator",
             "attachments": [
                 "ischial spine",
@@ -136,7 +136,7 @@
         },
         {
             "name": "inferior gemellus",
-            "section": "gluteal area",
+            "section": "hip",
             "compartment": "lateral rotator",
             "attachments": [
                 "ischial tuberosity",
@@ -156,7 +156,7 @@
         },
         {
             "name": "obturator internus",
-            "section": "gluteal area",
+            "section": "hip",
             "compartment": "lateral rotator",
             "attachments": [
                 "obturator membrane",
@@ -176,7 +176,7 @@
         },
         {
             "name": "quadratus femoris",
-            "section": "gluteal area",
+            "section": "hip",
             "compartment": "lateral rotator",
             "attachments": [
                 "ischial tuberosity",
@@ -190,7 +190,7 @@
             ],
             "blood supply": [
                 "inferior gluteal a.",
-                "large branch of the internal iliac a."
+                "large branch of internal iliac a."
             ],
             "notes": []
         },
@@ -362,22 +362,539 @@
             "notes": []
         },
         {
-            "name": "",
-            "section": "",
-            "compartment": "",
+            "name": "pectinius",
+            "section": "thigh",
+            "compartment": "medial",
             "attachments": [
-                
+                "superior pubic ramus", 
+                "pectineal line of femur",
+                "proximal linea aspera of femur"
             ],
             "actions": [
-
+                "hip adduction",
+                "hip flexion",
+                "lateral rotation"
             ],
             "innervations": [
-                
+                "obturator n.",
+                "femoral n."
             ],
             "blood supply": [
-                
+                "obturator a."
             ],
             "notes": []
+        },
+        {
+            "name": "adductor longus",
+            "section": "thigh",
+            "compartment": "medial",
+            "attachments": [
+                "inferior pubic ramus",
+                "anterior pubic symphysis",
+                "medial linea aspera of femur"
+            ],
+            "actions": [
+                "hip adduction"
+            ],
+            "innervations": [
+                "anterior branch of obturator n."
+            ],
+            "blood supply": [
+                "obturator a."
+            ],
+            "notes": [
+                "pelvic stability"
+            ]
+        },
+        {
+            "name": "adductor brevis",
+            "section": "thigh",
+            "compartment": "medial",
+            "attachments": [
+                "inferior pubic ramus",
+                "medial linea aspera of femur"
+            ],
+            "actions": [
+                "hip adduction"
+            ],
+            "innervations": [
+                "anterior branch of obturator n."
+            ],
+            "blood supply": [
+                "obturator a."
+            ],
+            "notes": [
+                "pelvic stability"
+            ]
+        },
+        {
+            "name": "adductor magnus (pubofemoral portion)",
+            "section": "thigh",
+            "compartment": "medial",
+            "attachments": [
+                "inferior pubic ramus",
+                "medial linea aspera of femur",
+                "medial supracondylar line"
+            ],
+            "actions": [
+                "hip adduction"
+            ],
+            "innervations": [
+                "posterior branch of obturator n."
+            ],
+            "blood supply": [
+                "obturator a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "adductor magnus (ischiocondylar portion)",
+            "section": "thigh",
+            "compartment": "medial",
+            "attachments": [
+                "ischial tuberosity",
+                "adductor tubercle"
+            ],
+            "actions": [
+                "hip extension"
+            ],
+            "innervations": [
+                "tibial branch of sciatic n."
+            ],
+            "blood supply": [
+                "obturator a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "gracilis",
+            "section": "thigh",
+            "compartment": "medial",
+            "attachments": [
+                "inferior pubic ramus",
+                "superior medial tibia"
+            ],
+            "actions": [
+                "hip adduction",
+                "knee flexion"
+            ],
+            "innervations": [
+                "obturator n."
+            ],
+            "blood supply": [
+                "obturator a."
+            ],
+            "notes": [
+                "part of pes anserinus (sartorius, gracilis, semitendinosus)"
+            ]
+        },
+        {
+            "name": "obturator externus",
+            "section": "thigh",
+            "compartment": "medial",
+            "attachments": [
+                "external margin of obturator foramen",
+                "obturator membrane",
+                "femur trochanteric fossa"
+            ],
+            "actions": [
+                "hip adduction",
+                "hip lateral rotation"
+            ],
+            "innervations": [
+                "obturator n."
+            ],
+            "blood supply": [
+                "obturator a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "biceps femoris (long head)",
+            "section": "thigh",
+            "compartment": "posterior",
+            "attachments": [
+                "ischial tuberosity",
+                "head of fibula"
+            ],
+            "actions": [
+                "hip extension",
+                "knee flexion"
+            ],
+            "innervations": [
+                "tibial branch of sciatic n."
+            ],
+            "blood supply": [
+                "perforating branches of deep femoral a."
+            ],
+            "notes": [
+                "hamstring"
+            ]
+        },
+        {
+            "name": "biceps femoris (short head)",
+            "section": "thigh",
+            "compartment": "posterior",
+            "attachments": [
+                "linea aspera of femur",
+                "head of fibula"
+            ],
+            "actions": [
+                "knee flexion"
+            ],
+            "innervations": [
+                "fibular branch of sciatic n."
+            ],
+            "blood supply": [
+                "perforating branches of deep femoral a."
+            ],
+            "notes": [
+                "not a hamstring"
+            ]
+        },
+        {
+            "name": "semitendinosus",
+            "section": "thigh",
+            "compartment": "posterior",
+            "attachments": [
+                "ischial tuberosity",
+                "proximal anterior tibia"
+            ],
+            "actions": [
+                "hip extension",
+                "knee flexion"
+            ],
+            "innervations": [
+                "tibial branch of sciatic n."
+            ],
+            "blood supply": [
+                "perforating branches of deep femoral a."
+            ],
+            "notes": [
+                "part of pes anserinus (sartorius, gracilis, semitendinosus)"
+            ]
+        },
+        {
+            "name": "semimembranosus",
+            "section": "thigh",
+            "compartment": "posterior",
+            "attachments": [
+                "ischial tuberosity",
+                "posterior medial condyle tibia"
+            ],
+            "actions": [
+                "hip extension",
+                "knee flexion"
+            ],
+            "innervations": [
+                "tibial branch of sciatic n."
+            ],
+            "blood supply": [
+                "perforating branches of deep femoral a."
+            ],
+            "notes": [
+                "cradles semitendinosus like a hot dog bun :)"
+            ]
+        },
+        {
+            "name": "tibialis anterior",
+            "section": "leg",
+            "compartment": "anterior",
+            "attachments": [
+                "upper 2/3 lateral tibia",
+                "medial cuniform",
+                "base of 1st metatarsal"
+            ],
+            "actions": [
+                "foot dorsiflexion at ankle joint",
+                "foot inversion at subtalar and tarsal joints"
+            ],
+            "innervations": [
+                "deep fibular n."
+            ],
+            "blood supply": [
+                "anterior tibial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor digitorum longus",
+            "section": "leg",
+            "compartment": "anterior",
+            "attachments": [
+                "head and medial fibula",
+                "middle and distal phalanges 2-5"
+            ],
+            "actions": [
+                "foot dorsiflexion at ankle joint",
+                "foot digits 2-5 extension"
+            ],
+            "innervations": [
+                "deep fibular n."
+            ],
+            "blood supply": [
+                "anterior tibial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor hallucis longus",
+            "section": "leg",
+            "compartment": "anterior",
+            "attachments": [
+                "middle anterior fibula",
+                "base of distal phalanx 1 (great toe)"
+            ],
+            "actions": [
+                "foot dorsiflexion at ankle joint",
+                "foot digit 1 (great toe) extension"
+            ],
+            "innervations": [
+                "deep fibular n."
+            ],
+            "blood supply": [
+                "anterior tibial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "fibularis terius",
+            "section": "leg",
+            "compartment": "anterior",
+            "attachments": [
+                "distal fibula",
+                "dorsum of metatarsal 5"
+            ],
+            "actions": [
+                "foot dorsiflexion at ankle joint",
+                "foot eversion at subtalar and tarsal joints"
+            ],
+            "innervations": [
+                "deep fibular n."
+            ],
+            "blood supply": [
+                "anterior tibial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "fibularis longus",
+            "section": "leg",
+            "compartment": "lateral",
+            "attachments": [
+                "head and superior 2/3 of lateral fibula",
+                "base of metatarsal 1",
+                "medial cuneform"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint",
+                "foot eversion at subtalar and tarsal joints"
+            ],
+            "innervations": [
+                "superficial fibular n."
+            ],
+            "blood supply": [
+                "fibular a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "fibularis brevis",
+            "section": "leg",
+            "compartment": "lateral",
+            "attachments": [
+                "inferior 2/3 lateral fibula",
+                "base of metatarsal 5"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint",
+                "foot eversion at subtalar and tarsal joints"
+            ],
+            "innervations": [
+                "superficial fibular n."
+            ],
+            "blood supply": [
+                "fibular a."
+            ],
+            "notes": [
+                "doesn't travel on plantar foot"
+            ]
+        },
+        {
+            "name": "gastrocnemius (lateral head)",
+            "section": "leg",
+            "compartment": "posterior",
+            "attachments": [
+                "lateral condyle of femur",
+                "calcaneus tuberosity"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint (when knee extended)",
+                "raises heel (when walking)",
+                "knee flexion"
+            ],
+            "innervations": [
+                "tibial n."
+            ],
+            "blood supply": [
+                "posterior tibial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "gastrocnemius (medial head)",
+            "section": "leg",
+            "compartment": "posterior",
+            "attachments": [
+                "medial condyle of femur",
+                "calcaneus tuberosity"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint (when knee extended)",
+                "raises heel (when walking)",
+                "knee flexion"
+            ],
+            "innervations": [
+                "tibial n."
+            ],
+            "blood supply": [
+                "posterior tibial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "soleus",
+            "section": "leg",
+            "compartment": "posterior",
+            "attachments": [
+                "posterior head and neck of tibia",
+                "calcaneus tuberosity"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint"
+            ],
+            "innervations": [
+                "tibial n."
+            ],
+            "blood supply": [
+                "posterior tibial a."
+            ],
+            "notes": [
+                "ankle stability"
+            ]
+        },
+        {
+            "name": "plantaris",
+            "section": "leg",
+            "compartment": "posterior",
+            "attachments": [
+                "lateral epicondyle of femur",
+                "calcaneus tuberosity"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint"
+            ],
+            "innervations": [
+                "tibial n."
+            ],
+            "blood supply": [
+                "posterior tibial a."
+            ],
+            "notes": [
+                "freshman nerve"
+            ]
+        },
+        {
+            "name": "popliteus",
+            "section": "leg",
+            "compartment": "posterior",
+            "attachments": [
+                "lateral condyle of femur",
+                "lateral meniscus",
+                "posterior tibia"
+            ],
+            "actions": [
+                "knee unlocking (via femur rotation)",
+                "knee flexion"
+            ],
+            "innervations": [
+                "tibial n."
+            ],
+            "blood supply": [
+                "posterior tibial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor digitorum longus",
+            "section": "leg",
+            "compartment": "posterior",
+            "attachments": [
+                "medial posterior tibia",
+                "base of distal phalanges 2-5"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint",
+                "foot digit 2-5 flexion"
+            ],
+            "innervations": [
+                "tibial n."
+            ],
+            "blood supply": [
+                "posterior tibial a."
+            ],
+            "notes": [
+                "most medial posterior leg compartment muscle"
+            ]
+        },
+        {
+            "name": "flexor hallucis longus",
+            "section": "leg",
+            "compartment": "posterior",
+            "attachments": [
+                "distal 2/3 posterior fibula",
+                "base of distal hallux"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint",
+                "hallux flexion"
+            ],
+            "innervations": [
+                "tibial n."
+            ],
+            "blood supply": [
+                "posterior tibial a."
+            ],
+            "notes": [
+                "arch support",
+                "most medial posterior leg compartment muscle"
+            ]
+        },
+        {
+            "name": "tibialis posterior",
+            "section": "leg",
+            "compartment": "posterior",
+            "attachments": [
+                "interosseous membrane",
+                "posterior surface of tibia",
+                "posterior surface of fibula",
+                "navicular",
+                "cuneiforms",
+                "metatarsals 2-4"
+            ],
+            "actions": [
+                "foot plantarflexion at ankle joint",
+                "foot inversion"
+            ],
+            "innervations": [
+                "tibial n."
+            ],
+            "blood supply": [
+                "posterior tibial a."
+            ],
+            "notes": [
+                "arch support"
+            ]
         }
     ]
 }
