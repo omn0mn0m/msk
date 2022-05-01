@@ -31,5 +31,4 @@ fetch('data/muscles.json')
     .then(response => response.json())
     .then(data => {
         gridOptions.api.setRowData(data.muscles);
-        gridOptions.api.sizeColumnsToFit();
     });
