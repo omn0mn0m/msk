@@ -6,39 +6,38 @@ const columnDefs = [
     { 
         field: "section", 
         rowGroup: true,
-        hide: true
+        hide: true,
+        flex: 1,
     },
     { 
         field: "compartment", 
         rowGroup: true,
-        hide: true
+        hide: true,
+        flex: 1,
     },
     { 
         field: "attachments",
         cellRenderer: CellListRenderer,
-        flex: 2,
     },
     { 
         field: "actions", 
         cellRenderer: CellListRenderer,
-        flex: 2,
     },
     {
         field: "innervations", 
         cellRenderer: CellListRenderer,
-        flex: 2,
     },
     { 
         field: "blood supply", 
         cellRenderer: CellListRenderer,
-        flex: 2,
     },
     { 
         field: "notes", 
         cellRenderer: CellListRenderer,
         filter: 'agTextColumnFilter',
         sortable: false,
-        enableRowGroup: false
+        enableRowGroup: false,
+        flex: 1
     },
 ];
 
@@ -77,7 +76,7 @@ const gridOptions = {
         floatingFilter: true,
         enableRowGroup: true,
         minWidth: 200,
-        flex: 1,
+        flex: 2,
         menuTabs: [ 'generalMenuTab' ],
     },
 };
