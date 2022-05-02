@@ -895,6 +895,845 @@
             "notes": [
                 "arch support"
             ]
+        },
+        {
+            "name": "extensor digitorum brevis",
+            "section": "foot",
+            "compartment": "dorsum",
+            "attachments": [
+                "dorsal calcaneus",
+                "long extensor tendons of middle phalanges 2-4"
+            ],
+            "actions": [
+                "foot digit 2-4 extension at metatarsophalangeal and interphalangeal joints"
+            ],
+            "innervations": [
+                "deep fibular n."
+            ],
+            "blood supply": [
+                "doraslis pedis a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor hallucis brevis",
+            "section": "foot",
+            "compartment": "dorsum",
+            "attachments": [
+                "dorsal calcaneus",
+                "base of proximal phalanx 1"
+            ],
+            "actions": [
+                "hallux extension at MTP joint"
+            ],
+            "innervations": [
+                "deep fibular n."
+            ],
+            "blood supply": [
+                "doraslis pedis a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "abductor hallucis",
+            "section": "foot",
+            "compartment": "1st layer",
+            "attachments": [
+                "calcaneal tuberosity",
+                "proximal phalanx 1"
+            ],
+            "actions": [
+                "hallux abduction at MTP and IP joints",
+                "hallux flexion at MTP and IP joints"
+            ],
+            "innervations": [
+                "medial plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": [
+                "important"
+            ]
+        },
+        {
+            "name": "flexor digitorum brevis",
+            "section": "foot",
+            "compartment": "1st layer",
+            "attachments": [
+                "calcaneal tuberosity",
+                "phalanges 2-5"
+            ],
+            "actions": [
+                "foot digit 2-5 flexion at MTP and IP joints"
+            ],
+            "innervations": [
+                "medial plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": [
+                "important"
+            ]
+        },
+        {
+            "name": "abductor digiti minimi",
+            "section": "foot",
+            "compartment": "1st layer",
+            "attachments": [
+                "calcaneal tuberosity",
+                "proximal phalanx 5"
+            ],
+            "actions": [
+                "foot digit 5 flexion at MTP and IP joints",
+                "foot digit 5 abduction at MTP and IP joints"
+            ],
+            "innervations": [
+                "lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": [
+                "important"
+            ]
+        },
+        {
+            "name": "quadratus plantae",
+            "section": "foot",
+            "compartment": "2nd layer",
+            "attachments": [
+                "calcaneus",
+                "flexor digitorum longus tendons"
+            ],
+            "actions": [
+                "foot digit 2-5 flexion at MTP and IP joints"
+            ],
+            "innervations": [
+                "lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": [
+                "important"
+            ]
+        },
+        {
+            "name": "lumbricals",
+            "section": "foot",
+            "compartment": "2nd layer",
+            "attachments": [
+                "flexor digitorum longus tendons",
+                "foot digits 2-5"
+            ],
+            "actions": [
+                "foot digit 2-5 flexion at PIP joints",
+                "foot digit 2-5 extension at MIP and DIP joints"
+            ],
+            "innervations": [
+                "medial plantar n.",
+                "lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor hallucis brevis",
+            "section": "foot",
+            "compartment": "3rd layer",
+            "attachments": [
+                "cuboid cuneiform",
+                "lateral cuneiform",
+                "proximal phalanx 1"
+            ],
+            "actions": [
+                "hallux flexion at IP joints"
+            ],
+            "innervations": [
+                "medial plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "adductor hallucis (oblique head)",
+            "section": "foot",
+            "compartment": "3rd layer",
+            "attachments": [
+                "base of metatarsal 2-4",
+                "hallux lateral proximal phalanx"
+            ],
+            "actions": [
+                "hallux adduction"
+            ],
+            "innervations": [
+                "deep branch of lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": [
+                "arch support"
+            ]
+        },
+        {
+            "name": "adductor hallucis (transverse head)",
+            "section": "foot",
+            "compartment": "3rd layer",
+            "attachments": [
+                "MTP plantar ligaments",
+                "hallux lateral proximal phalanx"
+            ],
+            "actions": [
+                "hallux adduction"
+            ],
+            "innervations": [
+                "deep branch of lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": [
+                "arch support"
+            ]
+        },
+        {
+            "name": "flexor digiti minimi brevis",
+            "section": "foot",
+            "compartment": "3rd layer",
+            "attachments": [
+                "base of metatarsal 5",
+                "base of proximal phalanx 5"
+            ],
+            "actions": [
+                "proximal IP joint 5 flexion"
+            ],
+            "innervations": [
+                "superficial branch of lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "plantar interossei (3)",
+            "section": "foot",
+            "compartment": "4th layer",
+            "attachments": [
+                "metatarsal 3-5",
+                "base of phalanges 3-5"
+            ],
+            "actions": [
+                "MTP joint 3-5 adduction",
+                "MTP joint 3-5 flexion"
+            ],
+            "innervations": [
+                "lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "dorsal interossei (1st)",
+            "section": "foot",
+            "compartment": "4th layer",
+            "attachments": [
+                "metatarsal 1",
+                "medial side of proximal phalanx 2"
+            ],
+            "actions": [
+                "MTP joint 2-4 abduction",
+                "MTP joint 2-4 flexion"
+            ],
+            "innervations": [
+                "lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "dorsal interossei (2-4)",
+            "section": "foot",
+            "compartment": "4th layer",
+            "attachments": [
+                "metatarsal 2-4",
+                "lateral side of foot digit 2-4"
+            ],
+            "actions": [
+                "MTP joint 2-4 abduction",
+                "MTP joint 2-4 flexion"
+            ],
+            "innervations": [
+                "lateral plantar n."
+            ],
+            "blood supply": [
+                "medial plantar a.",
+                "lateral plantar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "pectoralis major (clavicular head)",
+            "section": "thorax",
+            "compartment": "thoracic wall",
+            "attachments": [
+                "medial head of clavicle",
+                "lateral lip of intertubercular sulcus"
+            ],
+            "actions": [
+                "arm adduction",
+                "arm medial rotation",
+                "arm flexion",
+                "draws scapula anteriorly",
+                "draws scapula inferiorly"
+            ],
+            "innervations": [
+                "lateral pectoral n.",
+                "medial pectoral n."
+            ],
+            "blood supply": [
+                "pectoral branch of thoracoacromial a."
+            ],
+            "notes": [
+                "stablises scapula"
+            ]
+        },
+        {
+            "name": "pectoralis major (sternocostal head)",
+            "section": "thorax",
+            "compartment": "thoracic wall",
+            "attachments": [
+                "anterior surface of sternum",
+                "superior 6 costal cartilages",
+                "lateral lip of intertubercular sulcus of humerus"
+            ],
+            "actions": [
+                "arm adduction",
+                "arm medial rotation",
+                "sternocostal head extension",
+                "draws scapula anteriorly",
+                "draws scapula inferiorly"
+            ],
+            "innervations": [
+                "lateral pectoral n.",
+                "medial pectoral n."
+            ],
+            "blood supply": [
+                "pectoral branch of thoracoacromial a."
+            ],
+            "notes": [
+                "stablises scapula"
+            ]
+        },
+        {
+            "name": "pectoralis minor",
+            "section": "thorax",
+            "compartment": "thoracic wall",
+            "attachments": [
+                "costal cartilage 3-5",
+                "coracoid process"
+            ],
+            "actions": [
+                "draws scapula anteriorly",
+                "draws scapula inferiorly"
+            ],
+            "innervations": [
+                "medial pectoral n."
+            ],
+            "blood supply": [
+                "pectoral branch of thoracoacromial a."
+            ],
+            "notes": [
+                "stablises scapula"
+            ]
+        },
+        {
+            "name": "subclavius",
+            "section": "thorax",
+            "compartment": "thoracic wall",
+            "attachments": [
+                "rib 1",
+                "middle 1/3 of clavicle"
+            ],
+            "actions": [
+                "clavicle anchoring",
+                "clavicle depression"
+            ],
+            "innervations": [
+                "n. to subclavius"
+            ],
+            "blood supply": [
+                "clavicular branch of thoracoacromial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "serratus anterior",
+            "section": "thorax",
+            "compartment": "thoracic wall",
+            "attachments": [
+                "rib 1-6",
+                "medial border of scapula"
+            ],
+            "actions": [
+                "scapula protraction",
+                "scapula rotation",
+                "shoulder abduction"
+            ],
+            "innervations": [
+                "long thoracic n."
+            ],
+            "blood supply": [
+                "superior thoracic a.",
+                "lateral thoracic a.",
+                "branches from axillary artery",
+                "branches of thoracodorsal artery"
+            ],
+            "notes": [
+                "shoulder abduction from 160-180 degrees"
+            ]
+        },
+        {
+            "name": "deltoid (clavicular)",
+            "section": "shoulder",
+            "compartment": "deltoid",
+            "attachments": [
+                "lateral third of clavical",
+                "deltoid tuberosity"
+            ],
+            "actions": [
+                "shoulder flexion",
+                "shoulder medial rotation",
+                "shoulder adduction"
+            ],
+            "innervations": [
+                "axillary n."
+            ],
+            "blood supply": [
+                "acromial branch of thoracoacromial a.",
+                "deltoid branch of thoracoacromial a.",
+                "circumflex humeral a.",
+                "deltoid branch of profunda brachii a.",
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "deltoid (acromial)",
+            "section": "shoulder",
+            "compartment": "deltoid",
+            "attachments": [
+                "acromion",
+                "deltoid tuberosity"
+            ],
+            "actions": [
+                "shoulder abduction"
+            ],
+            "innervations": [
+                "axillary n."
+            ],
+            "blood supply": [
+                "acromial branch of thoracoacromial a.",
+                "deltoid branch of thoracoacromial a.",
+                "circumflex humeral a.",
+                "deltoid branch of profunda brachii a.",
+                "brachial a."
+            ],
+            "notes": [
+                "shoulder abduction from 15-90 degrees"
+            ]
+        },
+        {
+            "name": "deltoid (spinal)",
+            "section": "shoulder",
+            "compartment": "deltoid",
+            "attachments": [
+                "spine of scapula",
+                "deltoid tuberosity"
+            ],
+            "actions": [
+                "shoulder extension",
+                "shoulder lateral rotation",
+                "shoulder adduction"
+            ],
+            "innervations": [
+                "axillary n."
+            ],
+            "blood supply": [
+                "acromial branch of thoracoacromial a.",
+                "deltoid branch of thoracoacromial a.",
+                "circumflex humeral a.",
+                "deltoid branch of profunda brachii a.",
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "subscapularis",
+            "section": "shoulder",
+            "compartment": "rotator cuff",
+            "attachments": [
+                "subscapular fossa of scapula",
+                "lesser tubercle of humerus"
+            ],
+            "actions": [
+                "shoulder medial rotation"
+            ],
+            "innervations": [
+                "upper subscapular n.",
+                "lower subscapular n."
+            ],
+            "blood supply": [
+                "subscapular a.",
+                "suprascapular a.",
+                "circumflex scapular a."
+            ],
+            "notes": [
+                "arm stabilisation"
+            ]
+        },
+        {
+            "name": "infraspinatus",
+            "section": "shoulder",
+            "compartment": "rotator cuff",
+            "attachments": [
+                "infraspinous fossa of scapula",
+                "greater tubercle of humerus"
+            ],
+            "actions": [
+                "shoulder lateral rotation"
+            ],
+            "innervations": [
+                "suprascapular n."
+            ],
+            "blood supply": [
+                "suprascapular a.",
+                "circumflex scapular a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "teres minor",
+            "section": "shoulder",
+            "compartment": "rotator cuff",
+            "attachments": [
+                "lateral border of scapula",
+                "greater tubercle of humerus"
+            ],
+            "actions": [
+                "shoulder lateral rotation"
+            ],
+            "innervations": [
+                "axillary n."
+            ],
+            "blood supply": [
+                "subscapular a.",
+                "posterior circumflex humeral a.",
+                "circumflex scapular a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "supraspinatus",
+            "section": "shoulder",
+            "compartment": "rotator cuff",
+            "attachments": [
+                "supraspinous fossa of scapula",
+                "greater tubercle of humerus"
+            ],
+            "actions": [
+                "shoulder abduction"
+            ],
+            "innervations": [
+                "suprascapular n."
+            ],
+            "blood supply": [
+                "suprascapular a."
+            ],
+            "notes": [
+                "shoulder abduction from 0-15 degrees"
+            ]
+        },
+        {
+            "name": "teres major",
+            "section": "back",
+            "compartment": "back",
+            "attachments": [
+                "inferior angle of scapula",
+                "medial lip of intertubercular sulcus of humerus"
+            ],
+            "actions": [
+                "shoulder medial rotation",
+                "shoulder extension",
+                "shoulder adduction"
+            ],
+            "innervations": [
+                "lower subscapular n."
+            ],
+            "blood supply": [
+                "thoracodorsal a.",
+                "posterior circumflex humeral a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "trapezius",
+            "section": "back",
+            "compartment": "superficial",
+            "attachments": [
+                "spinous process of C7-T12",
+                "occipital protuberance to the lateral 1/3 clavicle",
+                "acromion",
+                "spine of scapula"
+            ],
+            "actions": [
+                "shoulder abduction",
+                "draws scapula obliquely upward",
+                "draws scapula medially",
+                "draws scapula medially downward",
+                "head tilt",
+                "head rotation",
+                "glenoid cavity superior rotation"
+            ],
+            "innervations": [
+                "accessory n. (CN XI)"
+            ],
+            "blood supply": [
+                "transverse cervical a.",
+                "dorsal scapular a.",
+                "posterior intercostal a."
+            ],
+            "notes": [
+                "shoulder abduction from 90-160 degrees"
+            ]
+        },
+        {
+            "name": "latissimus dorsi",
+            "section": "back",
+            "compartment": "superficial",
+            "attachments": [
+                "spinous process of inferior 6 vertebrae",
+                "thoracocolumbar fascia",
+                "iliac crest",
+                "rib 9-12",
+                "inferior angle of scapula",
+                "floor of intertubercular groove of humerus"
+            ],
+            "actions": [
+                "arm extension",
+                "arm medial rotation",
+                "arm adduction",
+                "respiration"
+            ],
+            "innervations": [
+                "thoracodorsal n."
+            ],
+            "blood supply": [
+                "thoracodorsal a.",
+                "branches of subscapular a."
+            ],
+            "notes": [
+                "cough muscle"
+            ]
+        },
+        {
+            "name": "levator scapulae",
+            "section": "back",
+            "compartment": "deep",
+            "attachments": [
+                "transverse process of vertebrae C1-C4",
+                "medial border of scapula"
+            ],
+            "actions": [
+                "scapula elevation",
+                "scapula rotation"
+            ],
+            "innervations": [
+                "dorsal scapular n."
+            ],
+            "blood supply": [
+                "transverse cervical a.",
+                "ascending cervical a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "rhomboid minor",
+            "section": "back",
+            "compartment": "deep",
+            "attachments": [
+                "nuchal ligament",
+                "spinous process of vertebrae C7-T1",
+                "medial border of scapula"
+            ],
+            "actions": [
+                "scapula retraction",
+                "glenoid cavity inferior rotation",
+                "draw scapula medially upward"
+            ],
+            "innervations": [
+                "dorsal scapular n."
+            ],
+            "blood supply": [
+                "dorsal scapular a.",
+                "deep branch of transverse cervical a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "rhomboid major",
+            "section": "back",
+            "compartment": "deep",
+            "attachments": [
+                "spinous process of vertebrae T2-T5",
+                "medial border of scapula"
+            ],
+            "actions": [
+                "scapula retraction",
+                "glenoid cavity inferior rotation",
+                "draw scapula medially upward"
+            ],
+            "innervations": [
+                "dorsal scapular n."
+            ],
+            "blood supply": [
+                "dorsal scapular a.",
+                "deep branch of transverse cervical a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "serratus posterior superior",
+            "section": "back",
+            "compartment": "intermediate",
+            "attachments": [
+                "spinous process of vertebrae C7-T3",
+                "rib 2-5"
+            ],
+            "actions": [
+                "rib 2-5 elevation"
+            ],
+            "innervations": [
+                "intercostal n."
+            ],
+            "blood supply": [
+                "posterior intercostal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "serratus posterior inferior",
+            "section": "back",
+            "compartment": "intermediate",
+            "attachments": [
+                "spinous process of vertebrae T11-T12",
+                "rib 9-12"
+            ],
+            "actions": [
+                "rib 9-12 depression"
+            ],
+            "innervations": [
+                "intercostal n."
+            ],
+            "blood supply": [
+                "posterior intercostal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "splenius capitis",
+            "section": "back",
+            "compartment": "deep",
+            "attachments": [
+                "spinous process of vertebrae C7-T3"
+            ],
+            "actions": [
+                "cervical spine extension",
+                "head extension",
+                "head lateral flexion",
+                "head rotation"
+            ],
+            "innervations": [
+                "posterior dorsal rami"
+            ],
+            "blood supply": [
+                "occipital a.",
+                "dorasl branches of posterior intercostal a."
+            ],
+            "notes": [
+                "V-shaped orientation"
+            ]
+        },
+        {
+            "name": "erector spinae",
+            "section": "back",
+            "compartment": "deep",
+            "attachments": [
+                "spinous process of vertebrae C7-T3"
+            ],
+            "actions": [
+                "spine extension",
+                "spine lateral flexion"
+            ],
+            "innervations": [
+                "posterior dorsal rami"
+            ],
+            "blood supply": [
+                "deep cervical a.",
+                "dorasl branches of posterior intercostal a.",
+                "musclar branches of vertebral a."
+            ],
+            "notes": [
+                "Formed by: Illiocostalis, LOngissimus, SPinalis (I LOve SPaghetti)"
+            ]
+        },
+        {
+            "name": "transversospinales",
+            "section": "back",
+            "compartment": "deep",
+            "attachments": [
+                "spinous process of vertebrae C7-T3"
+            ],
+            "actions": [
+                "spine extension",
+                "spine lateral flexion"
+            ],
+            "innervations": [
+                "posterior dorsal rami"
+            ],
+            "blood supply": [
+                "occipital transverse cervical a.",
+                "deep cervical a.",
+                "posterior intercostal a.",
+                "vertebral a.",
+                "subcostal a.",
+                "lumbar sacral a."
+            ],
+            "notes": [
+                "Inverted V-shaped orientation"
+            ]
         }
     ]
 }
