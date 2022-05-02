@@ -1784,7 +1784,7 @@
             ],
             "actions": [
                 "forearm supination",
-                "forearm flexion",
+                "elbow flexion",
                 "dislocation resistance"
             ],
             "innervations": [
@@ -1805,7 +1805,7 @@
             ],
             "actions": [
                 "forearm supination",
-                "forearm flexion",
+                "elbow flexion",
                 "dislocation resistance"
             ],
             "innervations": [
@@ -1847,7 +1847,7 @@
                 "ulnar tuberosity"
             ],
             "actions": [
-                "forearm flexion"
+                "elbow flexion"
             ],
             "innervations": [
                 "musculocutaneous n."
@@ -1926,7 +1926,7 @@
             ],
             "actions": [
                 "forearm pronation",
-                "forearm flexion"
+                "elbow flexion"
             ],
             "innervations": [
                 "median n."
@@ -1967,7 +1967,7 @@
                 "palmar aponeurosis"
             ],
             "actions": [
-                "forearm flexion"
+                "elbow flexion"
             ],
             "innervations": [
                 "median n."
@@ -2072,7 +2072,7 @@
                 "distal ulna"
             ],
             "actions": [
-                "forearm protonation"
+                "forearm pronation"
             ],
             "innervations": [
                 "anterior interosseus n."
@@ -2092,7 +2092,7 @@
                 "radius (distal end)"
             ],
             "actions": [
-                "forearm flexion"
+                "elbow flexion"
             ],
             "innervations": [
                 "radial n."
