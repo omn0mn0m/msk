@@ -1734,6 +1734,582 @@
             "notes": [
                 "Inverted V-shaped orientation"
             ]
+        },
+        {
+            "name": "biceps brachii (short head)",
+            "section": "arm",
+            "compartment": "anterior",
+            "attachments": [
+                "tip of coracoid process",
+                "radial tuberosity"
+            ],
+            "actions": [
+                "forearm supination",
+                "forearm flexion",
+                "dislocation resistance"
+            ],
+            "innervations": [
+                "musculocutaneous n."
+            ],
+            "blood supply": [
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "biceps brachii (long head)",
+            "section": "arm",
+            "compartment": "anterior",
+            "attachments": [
+                "supraglenoid tubercle of scapula",
+                "radial tuberosity"
+            ],
+            "actions": [
+                "forearm supination",
+                "forearm flexion",
+                "dislocation resistance"
+            ],
+            "innervations": [
+                "musculocutaneous n."
+            ],
+            "blood supply": [
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "coricobrachialis",
+            "section": "arm",
+            "compartment": "anterior",
+            "attachments": [
+                "coracoid process",
+                "medial surface of humerus"
+            ],
+            "actions": [
+                "arm flexion",
+                "arm adduction",
+                "dislocation resistance"
+            ],
+            "innervations": [
+                "musculocutaneous n."
+            ],
+            "blood supply": [
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "brachialis",
+            "section": "arm",
+            "compartment": "anterior",
+            "attachments": [
+                "distal 1/2 of anterior humerus",
+                "coronoid process",
+                "ulnar tuberosity"
+            ],
+            "actions": [
+                "forearm flexion"
+            ],
+            "innervations": [
+                "musculocutaneous n."
+            ],
+            "blood supply": [
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "triceps brachii (long head)",
+            "section": "arm",
+            "compartment": "posterior",
+            "attachments": [
+                "infraglenoid tubercle",
+                "olecranon of ulna"
+            ],
+            "actions": [
+                "shoulder extension",
+                "shoulder adduction",
+                "elbow extension"
+            ],
+            "innervations": [
+                "radial n."
+            ],
+            "blood supply": [
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "triceps brachii (lateral head)",
+            "section": "arm",
+            "compartment": "posterior",
+            "attachments": [
+                "proximal posterior surface of humerus",
+                "olecranon of ulna"
+            ],
+            "actions": [
+                "elbow extension"
+            ],
+            "innervations": [
+                "radial n."
+            ],
+            "blood supply": [
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "triceps brachii (medial head)",
+            "section": "arm",
+            "compartment": "posterior",
+            "attachments": [
+                "distal posterior surface of humerus",
+                "olecranon of ulna"
+            ],
+            "actions": [
+                "elbow extension"
+            ],
+            "innervations": [
+                "radial n."
+            ],
+            "blood supply": [
+                "brachial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "pronator teres",
+            "section": "forearm",
+            "compartment": "anterior",
+            "attachments": [
+                "medial epicondyle",
+                "lateral midshaft of radius"
+            ],
+            "actions": [
+                "forearm pronation",
+                "forearm flexion"
+            ],
+            "innervations": [
+                "median n."
+            ],
+            "blood supply": [
+                "ulnar a.",
+                "radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor carpi radialis",
+            "section": "forearm",
+            "compartment": "anterior",
+            "attachments": [
+                "medial epicondyle",
+                "base of metacarpal 2-3"
+            ],
+            "actions": [
+                "wrist abduction",
+                "wrist flexion"
+            ],
+            "innervations": [
+                "median n."
+            ],
+            "blood supply": [
+                "ulnar a.",
+                "radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "palmaris longus",
+            "section": "forearm",
+            "compartment": "anterior",
+            "attachments": [
+                "medial epicondyle",
+                "palmar aponeurosis"
+            ],
+            "actions": [
+                "forearm flexion"
+            ],
+            "innervations": [
+                "median n."
+            ],
+            "blood supply": [
+                "ulnar a.",
+                "radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor carpi ulnaris",
+            "section": "forearm",
+            "compartment": "anterior",
+            "attachments": [
+                "medial epicondyle",
+                "pisiform",
+                "base of metacarpal 5"
+            ],
+            "actions": [
+                "wrist adduction",
+                "wrist flexion"
+            ],
+            "innervations": [
+                "ulnar n."
+            ],
+            "blood supply": [
+                "ulnar a.",
+                "radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor digitorum superficialis",
+            "section": "forearm",
+            "compartment": "anterior",
+            "attachments": [
+                "medial epicondyle",
+                "middle phalanges of digit 2-5"
+            ],
+            "actions": [
+                "PIP 2-5 flexion"
+            ],
+            "innervations": [
+                "median n."
+            ],
+            "blood supply": [
+                "ulnar a.",
+                "radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor digitorum profundus",
+            "section": "forearm",
+            "compartment": "anterior",
+            "attachments": [
+                "anterior surface of ulna",
+                "medial surface of ulna",
+                "distal phalanges of digit 2-5"
+            ],
+            "actions": [
+                "DIP 2-5 flexion"
+            ],
+            "innervations": [
+                "anterior interosseus n.",
+                "ulnar n."
+            ],
+            "blood supply": [
+                "ulnar a.",
+                "radial a."
+            ],
+            "notes": []
+        }
+        ,
+        {
+            "name": "flexor pollicis longus",
+            "section": "forearm",
+            "compartment": "anterior",
+            "attachments": [
+                "anterior surface of radius",
+                "distal phalanges of pollicis"
+            ],
+            "actions": [
+                "IP 2-5 flexion"
+            ],
+            "innervations": [
+                "anterior interosseus n."
+            ],
+            "blood supply": [
+                "ulnar a.",
+                "radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "protonator quadratus",
+            "section": "forearm",
+            "compartment": "anterior",
+            "attachments": [
+                "distal radius",
+                "distal ulna"
+            ],
+            "actions": [
+                "forearm protonation"
+            ],
+            "innervations": [
+                "anterior interosseus n."
+            ],
+            "blood supply": [
+                "ulnar a.",
+                "radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "brachioradialis",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "supraepicondylar ridge of humerus",
+                "distal end of radius"
+            ],
+            "actions": [
+                "forearm flexion"
+            ],
+            "innervations": [
+                "radial n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": [
+                "only acts when forearm midpronated"
+            ]
+        },
+        {
+            "name": "extensor carpi radialis longus",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "supraepicondylar ridge of humerus",
+                "base of metacarpal 2"
+            ],
+            "actions": [
+                "wrist extension",
+                "wrist abduction"
+            ],
+            "innervations": [
+                "radial n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor carpi radialis brevis",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "lateral epicondyle of humerus",
+                "base of metacarpal 3"
+            ],
+            "actions": [
+                "wrist extension",
+                "wrist abduction"
+            ],
+            "innervations": [
+                "deep branch of radial n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor digitorum",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "lateral epicondyle of humerus",
+                "hand digit 2-5"
+            ],
+            "actions": [
+                "hand digit 2-5 extension at MCP joints",
+                "secondary extension at IP joints"
+            ],
+            "innervations": [
+                "deep branch of radial n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor digiti minimi",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "lateral epicondyle of humerus",
+                "hand digit 5"
+            ],
+            "actions": [
+                "hand digit 5 extension at MCP joints",
+                "secondary extension at IP joints"
+            ],
+            "innervations": [
+                "deep branch of radial n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor carpi ulnaris",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "lateral epicondyle of humerus",
+                "base of metacarpal 5"
+            ],
+            "actions": [
+                "wrist extension",
+                "wrist adduction"
+            ],
+            "innervations": [
+                "deep branch of radial n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "supinator",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "lateral epicondyle of humerus",
+                "radial collateral ligament",
+                "radial anular ligament",
+                "supinator fossa",
+                "crest of ulna",
+                "proximal 1/3 of radius"
+            ],
+            "actions": [
+                "forearm supination"
+            ],
+            "innervations": [
+                "deep branch of radial n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor indicis",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "distal 1/3 of ulna",
+                "interosseous membrane of digit 2"
+            ],
+            "actions": [
+                "hand digit 2 extension",
+                "wrist extension"
+            ],
+            "innervations": [
+                "posterior interosseous n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "abductor pollicus longus",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "posterior proximal 1/2 of ulna",
+                "radius",
+                "interosseous membrane",
+                "base of metacarpal 1"
+            ],
+            "actions": [
+                "pollicus abduction",
+                "pollicus extension at CMC joint"
+            ],
+            "innervations": [
+                "posterior interosseous n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "extensor pollicus longus",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "middle 1/3 of ulna",
+                "interosseous membrane",
+                "base of metacarpal 1"
+            ],
+            "actions": [
+                "pollicus distal phalanx extension at IP joint",
+                "pollicus MCP extension",
+                "pollicus CMC extension"
+            ],
+            "innervations": [
+                "posterior interosseous n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": [
+                "anterior border of anatomical snuff box, which contains radial artery and extensor carpi radialis longus tendon"
+            ]
+        },
+        {
+            "name": "extensor pollicus brevis",
+            "section": "forearm",
+            "compartment": "posterior",
+            "attachments": [
+                "distal 1/3 of radius",
+                "interosseous membrane",
+                "base of proximal phalanx of pollicus"
+            ],
+            "actions": [
+                "pollicus proximal phalanx extension at IP joint",
+                "pollicus MCP extension",
+                "pollicus CMC extension"
+            ],
+            "innervations": [
+                "posterior interosseous n."
+            ],
+            "blood supply": [
+                "radial recurrent a.",
+                "posterior interosseus a.",
+                "anterior interosseus a.",
+                "interosseus recurrent a."
+            ],
+            "notes": [
+                "anterior border of anatomical snuff box, which contains radial artery and extensor carpi radialis longus tendon"
+            ]
         }
     ]
 }

@@ -8,18 +8,22 @@ const columnDefs = [
     { 
         field: "attachments",
         cellRenderer: CellListRenderer,
+        flex: 2,
     },
     { 
         field: "actions", 
         cellRenderer: CellListRenderer,
+        flex: 2,
     },
     {
         field: "innervations", 
         cellRenderer: CellListRenderer,
+        flex: 2,
     },
     { 
         field: "blood supply", 
         cellRenderer: CellListRenderer,
+        flex: 2,
     },
     { 
         field: "notes", 
@@ -54,7 +58,7 @@ const gridOptions = {
             },
             'filters'
         ],
-        defaultToolPanel: 'columns',
+        defaultToolPanel: '',
     },
     defaultColDef: {
         sortable: true, 
@@ -64,6 +68,8 @@ const gridOptions = {
         wrapText: true, 
         floatingFilter: true,
         enableRowGroup: true,
+        minWidth: 200,
+        flex: 1,
         menuTabs: [ 'generalMenuTab' ],
     },
 };
