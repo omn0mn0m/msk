@@ -3,8 +3,16 @@ const columnDefs = [
         field: "name",
         filter: 'agTextColumnFilter',
     },
-    { field: "section" },
-    { field: "compartment" },
+    { 
+        field: "section", 
+        rowGroup: true,
+        hide: true
+    },
+    { 
+        field: "compartment", 
+        rowGroup: true,
+        hide: true
+    },
     { 
         field: "attachments",
         cellRenderer: CellListRenderer,
