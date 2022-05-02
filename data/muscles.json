@@ -1,7 +1,7 @@
 {
     "muscles": [
         {
-            "name": "gluteus maximus",
+            "name": "gluteus maximus (upper fibers)",
             "section": "hip",
             "compartment": "gluteal region",
             "attachments": [
@@ -9,14 +9,37 @@
                 "sacrum (dorsal surface, lateral part)",
                 "thoracolumbar fascia",
                 "sacrotuberous ligament",
-                "iliotibial tract",
+                "iliotibial tract"
+            ],
+            "actions": [
+                "hip extension",
+                "hip lateral rotation",
+                "hip abduction"
+            ],
+            "innervations": [
+                "inferior gluteal n."
+            ],
+            "blood supply": [
+                "superior gluteal a.",
+                "inferior gluteal a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "gluteus maximus (lower fibers",
+            "section": "hip",
+            "compartment": "gluteal region",
+            "attachments": [
+                "ilium (gluteal surface, posterior part)",
+                "sacrum (dorsal surface, lateral part)",
+                "thoracolumbar fascia",
+                "sacrotuberous ligament",
                 "gluteal tuberosity"
             ],
             "actions": [
                 "hip extension",
                 "hip lateral rotation",
-                "hip abduction (upper fibers)",
-                "hip adduction (lower fibers)"
+                "hip adduction"
             ],
             "innervations": [
                 "inferior gluteal n."
@@ -201,7 +224,7 @@
             "attachments": [
                 "T12-L5 vertebral sides",
                 "lumbar vertebrae trasnverse processes ",
-                "lesser trochanter of femur"
+                "femur (lesser trochanter)"
             ],
             "actions": [
                 "hip flexion",
@@ -223,7 +246,7 @@
             "compartment": "anterior",
             "attachments": [
                 "iliac fossa",
-                "lesser trochanter of femur"
+                "femur (lesser trochanter)"
             ],
             "actions": [
                 "hip flexion",
@@ -308,7 +331,7 @@
             "compartment": "anterior",
             "attachments": [
                 "linea aspera (lateral lip)",
-                "greater trochanter (lateral surface)",
+                "greater trochanter of femur (lateral surface)",
                 "tibial tuberosity"
             ],
             "actions": [
@@ -346,7 +369,7 @@
             "section": "thigh",
             "compartment": "anterior",
             "attachments": [
-                "linea aspera (media; lip)",
+                "linea aspera (medial lip)",
                 "intertrochanteric line (distal part)",
                 "tibial tuberosity"
             ],
@@ -602,12 +625,12 @@
             "compartment": "anterior",
             "attachments": [
                 "upper 2/3 lateral tibia",
-                "medial cuniform",
+                "medial cuneiform",
                 "base of 1st metatarsal"
             ],
             "actions": [
                 "foot dorsiflexion at ankle joint",
-                "foot inversion at subtalar and tarsal joints"
+                "foot inversion at subtalar and tarsal joint"
             ],
             "innervations": [
                 "deep fibular n."
@@ -623,7 +646,8 @@
             "compartment": "anterior",
             "attachments": [
                 "head and medial fibula",
-                "middle and distal phalanges 2-5"
+                "middle phalanges 2-5",
+                "distal phalanges 2-5"
             ],
             "actions": [
                 "foot dorsiflexion at ankle joint",
@@ -643,11 +667,12 @@
             "compartment": "anterior",
             "attachments": [
                 "middle anterior fibula",
-                "base of distal phalanx 1 (great toe)"
+                "base of distal phalanx 1"
             ],
             "actions": [
                 "foot dorsiflexion at ankle joint",
-                "foot digit 1 (great toe) extension"
+                "hallux extension at MTP joint",
+                "hallux extension at IP joint"
             ],
             "innervations": [
                 "deep fibular n."
@@ -667,7 +692,7 @@
             ],
             "actions": [
                 "foot dorsiflexion at ankle joint",
-                "foot eversion at subtalar and tarsal joints"
+                "foot eversion at subtalar and tarsal joint"
             ],
             "innervations": [
                 "deep fibular n."
@@ -683,12 +708,12 @@
             "compartment": "lateral",
             "attachments": [
                 "head and superior 2/3 of lateral fibula",
-                "base of metatarsal 1",
-                "medial cuneform"
+                "metatarsal 1 (base)",
+                "medial cuneiform"
             ],
             "actions": [
                 "foot plantarflexion at ankle joint",
-                "foot eversion at subtalar and tarsal joints"
+                "foot eversion at subtalar and tarsal joint"
             ],
             "innervations": [
                 "superficial fibular n."
@@ -708,7 +733,7 @@
             ],
             "actions": [
                 "foot plantarflexion at ankle joint",
-                "foot eversion at subtalar and tarsal joints"
+                "foot eversion at subtalar and tarsal joint"
             ],
             "innervations": [
                 "superficial fibular n."
@@ -726,10 +751,10 @@
             "compartment": "posterior",
             "attachments": [
                 "lateral condyle of femur",
-                "calcaneus tuberosity"
+                "calcaneal tuberosity"
             ],
             "actions": [
-                "foot plantarflexion at ankle joint (when knee extended)",
+                "foot plantarflexion at ankle joint",
                 "raises heel (when walking)",
                 "knee flexion"
             ],
@@ -739,7 +764,9 @@
             "blood supply": [
                 "posterior tibial a."
             ],
-            "notes": []
+            "notes": [
+                "plantarflexion only when knee extended"
+            ]
         },
         {
             "name": "gastrocnemius (medial head)",
@@ -747,10 +774,10 @@
             "compartment": "posterior",
             "attachments": [
                 "medial condyle of femur",
-                "calcaneus tuberosity"
+                "calcaneal tuberosity"
             ],
             "actions": [
-                "foot plantarflexion at ankle joint (when knee extended)",
+                "foot plantarflexion at ankle joint",
                 "raises heel (when walking)",
                 "knee flexion"
             ],
@@ -760,7 +787,9 @@
             "blood supply": [
                 "posterior tibial a."
             ],
-            "notes": []
+            "notes": [
+                "plantarflexion only when knee extended"
+            ]
         },
         {
             "name": "soleus",
@@ -768,7 +797,7 @@
             "compartment": "posterior",
             "attachments": [
                 "posterior head and neck of tibia",
-                "calcaneus tuberosity"
+                "calcaneal tuberosity"
             ],
             "actions": [
                 "foot plantarflexion at ankle joint"
@@ -789,7 +818,7 @@
             "compartment": "posterior",
             "attachments": [
                 "lateral epicondyle of femur",
-                "calcaneus tuberosity"
+                "calcaneal tuberosity"
             ],
             "actions": [
                 "foot plantarflexion at ankle joint"
@@ -831,11 +860,12 @@
             "compartment": "posterior",
             "attachments": [
                 "medial posterior tibia",
-                "base of distal phalanges 2-5"
+                "distal phalanges 2-5 (base)"
             ],
             "actions": [
                 "foot plantarflexion at ankle joint",
-                "foot digit 2-5 flexion"
+                "foot digit 2-5 flexion at MTP joint",
+                "foot digit 2-5 flexion at IP joint"
             ],
             "innervations": [
                 "tibial n."
@@ -857,7 +887,8 @@
             ],
             "actions": [
                 "foot plantarflexion at ankle joint",
-                "hallux flexion"
+                "hallux flexion at MTP joint",
+                "hallux flexion at IP joint"
             ],
             "innervations": [
                 "tibial n."
@@ -884,7 +915,7 @@
             ],
             "actions": [
                 "foot plantarflexion at ankle joint",
-                "foot inversion"
+                "foot inversion at subtalar and tarsal joint"
             ],
             "innervations": [
                 "tibial n."
@@ -905,7 +936,8 @@
                 "long extensor tendons of middle phalanges 2-4"
             ],
             "actions": [
-                "foot digit 2-4 extension at metatarsophalangeal and interphalangeal joints"
+                "foot digit 2-4 extension at MTP joint",
+                "foot digit 2-4 extension at IP joint"
             ],
             "innervations": [
                 "deep fibular n."
@@ -943,8 +975,10 @@
                 "proximal phalanx 1"
             ],
             "actions": [
-                "hallux abduction at MTP and IP joints",
-                "hallux flexion at MTP and IP joints"
+                "hallux abduction at MTP joint",
+                "hallux abduction at IP joint",
+                "hallux flexion at MTP joint",
+                "hallux flexion at IP joint"
             ],
             "innervations": [
                 "medial plantar n."
@@ -966,7 +1000,8 @@
                 "phalanges 2-5"
             ],
             "actions": [
-                "foot digit 2-5 flexion at MTP and IP joints"
+                "foot digit 2-5 flexion at MTP joint",
+                "foot digit 2-5 flexion at IP joint"
             ],
             "innervations": [
                 "medial plantar n."
@@ -988,8 +1023,10 @@
                 "proximal phalanx 5"
             ],
             "actions": [
-                "foot digit 5 flexion at MTP and IP joints",
-                "foot digit 5 abduction at MTP and IP joints"
+                "foot digit 5 flexion at MTP joint",
+                "foot digit 5 flexion at IP joint",
+                "foot digit 5 abduction at MTP joint",
+                "foot digit 5 abduction at IP joint"
             ],
             "innervations": [
                 "lateral plantar n."
@@ -1011,7 +1048,8 @@
                 "flexor digitorum longus tendons"
             ],
             "actions": [
-                "foot digit 2-5 flexion at MTP and IP joints"
+                "foot digit 2-5 flexion at MTP joint",
+                "foot digit 2-5 flexion at IP joint"
             ],
             "innervations": [
                 "lateral plantar n."
@@ -1033,8 +1071,9 @@
                 "foot digits 2-5"
             ],
             "actions": [
-                "foot digit 2-5 flexion at PIP joints",
-                "foot digit 2-5 extension at MIP and DIP joints"
+                "foot digit 2-5 flexion at PIP joint",
+                "foot digit 2-5 extension at MIP joint",
+                "foot digit 2-5 extension at DIP joint"
             ],
             "innervations": [
                 "medial plantar n.",
@@ -1056,7 +1095,7 @@
                 "proximal phalanx 1"
             ],
             "actions": [
-                "hallux flexion at IP joints"
+                "hallux flexion at IP joint"
             ],
             "innervations": [
                 "medial plantar n."
@@ -1076,7 +1115,7 @@
                 "hallux lateral proximal phalanx"
             ],
             "actions": [
-                "hallux adduction"
+                "hallux adduction at MTP joint"
             ],
             "innervations": [
                 "deep branch of lateral plantar n."
@@ -1098,7 +1137,7 @@
                 "hallux lateral proximal phalanx"
             ],
             "actions": [
-                "hallux adduction"
+                "hallux adduction at MTP joint"
             ],
             "innervations": [
                 "deep branch of lateral plantar n."
@@ -1120,7 +1159,7 @@
                 "base of proximal phalanx 5"
             ],
             "actions": [
-                "proximal IP joint 5 flexion"
+                "hand digit 5 flexion at proximal IP joint"
             ],
             "innervations": [
                 "superficial branch of lateral plantar n."
@@ -1140,8 +1179,8 @@
                 "base of phalanges 3-5"
             ],
             "actions": [
-                "MTP joint 3-5 adduction",
-                "MTP joint 3-5 flexion"
+                "foot digit 3-5 adduction at MTP joint",
+                "foot digit 3-5 flexion MTP joint"
             ],
             "innervations": [
                 "lateral plantar n."
@@ -1161,8 +1200,8 @@
                 "medial side of proximal phalanx 2"
             ],
             "actions": [
-                "MTP joint 2-4 abduction",
-                "MTP joint 2-4 flexion"
+                "foot digit 2-4 abduction at MTP joint",
+                "foot digit 2-4 flexion at MTP joint"
             ],
             "innervations": [
                 "lateral plantar n."
@@ -1182,8 +1221,8 @@
                 "lateral side of foot digit 2-4"
             ],
             "actions": [
-                "MTP joint 2-4 abduction",
-                "MTP joint 2-4 flexion"
+                "foot digit 2-4 abduction at MTP joint",
+                "foot digit 2-4 flexion at MTP joint"
             ],
             "innervations": [
                 "lateral plantar n."
@@ -1200,12 +1239,12 @@
             "compartment": "thoracic wall",
             "attachments": [
                 "medial head of clavicle",
-                "lateral lip of intertubercular sulcus"
+                "lateral lip of intertubercular sulcus of humerus"
             ],
             "actions": [
-                "arm adduction",
-                "arm medial rotation",
-                "arm flexion",
+                "shoulder adduction",
+                "shoulder medial rotation",
+                "shoulder flexion",
                 "draws scapula anteriorly",
                 "draws scapula inferiorly"
             ],
@@ -1230,8 +1269,8 @@
                 "lateral lip of intertubercular sulcus of humerus"
             ],
             "actions": [
-                "arm adduction",
-                "arm medial rotation",
+                "shoulder adduction",
+                "shoulder medial rotation",
                 "sternocostal head extension",
                 "draws scapula anteriorly",
                 "draws scapula inferiorly"
@@ -1295,7 +1334,7 @@
             "compartment": "thoracic wall",
             "attachments": [
                 "rib 1-6",
-                "medial border of scapula"
+                "scapula (medial border)"
             ],
             "actions": [
                 "scapula protraction",
@@ -1370,7 +1409,7 @@
             "section": "shoulder",
             "compartment": "deltoid",
             "attachments": [
-                "spine of scapula",
+                "scapula (spine)",
                 "deltoid tuberosity"
             ],
             "actions": [
@@ -1395,7 +1434,7 @@
             "section": "shoulder",
             "compartment": "rotator cuff",
             "attachments": [
-                "subscapular fossa of scapula",
+                "scapula (subscapular fossa)",
                 "lesser tubercle of humerus"
             ],
             "actions": [
@@ -1411,7 +1450,7 @@
                 "circumflex scapular a."
             ],
             "notes": [
-                "arm stabilisation"
+                "shoulder stabilisation"
             ]
         },
         {
@@ -1419,7 +1458,7 @@
             "section": "shoulder",
             "compartment": "rotator cuff",
             "attachments": [
-                "infraspinous fossa of scapula",
+                "scapula (infraspinous fossa)",
                 "greater tubercle of humerus"
             ],
             "actions": [
@@ -1439,7 +1478,7 @@
             "section": "shoulder",
             "compartment": "rotator cuff",
             "attachments": [
-                "lateral border of scapula",
+                "scapula (lateral border)",
                 "greater tubercle of humerus"
             ],
             "actions": [
@@ -1460,7 +1499,7 @@
             "section": "shoulder",
             "compartment": "rotator cuff",
             "attachments": [
-                "supraspinous fossa of scapula",
+                "scapula (supraspinous fossa)",
                 "greater tubercle of humerus"
             ],
             "actions": [
@@ -1481,7 +1520,7 @@
             "section": "back",
             "compartment": "back",
             "attachments": [
-                "inferior angle of scapula",
+                "scapula (inferior angle)",
                 "medial lip of intertubercular sulcus of humerus"
             ],
             "actions": [
@@ -1506,7 +1545,7 @@
                 "spinous process of C7-T12",
                 "occipital protuberance to the lateral 1/3 clavicle",
                 "acromion",
-                "spine of scapula"
+                "scapula (spine)"
             ],
             "actions": [
                 "shoulder abduction",
@@ -1535,16 +1574,16 @@
             "compartment": "superficial",
             "attachments": [
                 "spinous process of inferior 6 vertebrae",
-                "thoracocolumbar fascia",
+                "thoracolumbar fascia",
                 "iliac crest",
                 "rib 9-12",
-                "inferior angle of scapula",
+                "scapula (inferior angle)",
                 "floor of intertubercular groove of humerus"
             ],
             "actions": [
-                "arm extension",
-                "arm medial rotation",
-                "arm adduction",
+                "shoulder extension",
+                "shoulder medial rotation",
+                "shoulder adduction",
                 "respiration"
             ],
             "innervations": [
@@ -1564,7 +1603,7 @@
             "compartment": "deep",
             "attachments": [
                 "transverse process of vertebrae C1-C4",
-                "medial border of scapula"
+                "scapula (medial border)"
             ],
             "actions": [
                 "scapula elevation",
@@ -1586,12 +1625,12 @@
             "attachments": [
                 "nuchal ligament",
                 "spinous process of vertebrae C7-T1",
-                "medial border of scapula"
+                "scapula (medial border)"
             ],
             "actions": [
                 "scapula retraction",
                 "glenoid cavity inferior rotation",
-                "draw scapula medially upward"
+                "draws scapula medially upward"
             ],
             "innervations": [
                 "dorsal scapular n."
@@ -1608,12 +1647,12 @@
             "compartment": "deep",
             "attachments": [
                 "spinous process of vertebrae T2-T5",
-                "medial border of scapula"
+                "scapula (medial border)"
             ],
             "actions": [
                 "scapula retraction",
                 "glenoid cavity inferior rotation",
-                "draw scapula medially upward"
+                "draws scapula medially upward"
             ],
             "innervations": [
                 "dorsal scapular n."
@@ -1761,7 +1800,7 @@
             "section": "arm",
             "compartment": "anterior",
             "attachments": [
-                "supraglenoid tubercle of scapula",
+                "scapula (supraglenoid tubercle)",
                 "radial tuberosity"
             ],
             "actions": [
@@ -1783,11 +1822,11 @@
             "compartment": "anterior",
             "attachments": [
                 "coracoid process",
-                "medial surface of humerus"
+                "humerus (medial surface)"
             ],
             "actions": [
-                "arm flexion",
-                "arm adduction",
+                "shoulder flexion",
+                "shoulder adduction",
                 "dislocation resistance"
             ],
             "innervations": [
@@ -1904,7 +1943,7 @@
             "compartment": "anterior",
             "attachments": [
                 "medial epicondyle",
-                "base of metacarpal 2-3"
+                "metacarpal 2-3 (base)"
             ],
             "actions": [
                 "wrist abduction",
@@ -1967,10 +2006,10 @@
             "compartment": "anterior",
             "attachments": [
                 "medial epicondyle",
-                "middle phalanges of digit 2-5"
+                "middle phalanges 2-5"
             ],
             "actions": [
-                "PIP 2-5 flexion"
+                "hand digit 2-5 flexion at PIP joint"
             ],
             "innervations": [
                 "median n."
@@ -1986,12 +2025,12 @@
             "section": "forearm",
             "compartment": "anterior",
             "attachments": [
-                "anterior surface of ulna",
-                "medial surface of ulna",
-                "distal phalanges of digit 2-5"
+                "ulna (anterior surface)",
+                "ulna (medial surface)",
+                "distal phalanges 2-5"
             ],
             "actions": [
-                "DIP 2-5 flexion"
+                "hand digit 2-5 flexion at DIP joint"
             ],
             "innervations": [
                 "anterior interosseus n.",
@@ -2010,10 +2049,10 @@
             "compartment": "anterior",
             "attachments": [
                 "anterior surface of radius",
-                "distal phalanges of pollicis"
+                "distal phalanx 1"
             ],
             "actions": [
-                "IP 2-5 flexion"
+                "hand digit 2-5 flexion at IP joint"
             ],
             "innervations": [
                 "anterior interosseus n."
@@ -2049,8 +2088,8 @@
             "section": "forearm",
             "compartment": "posterior",
             "attachments": [
-                "supraepicondylar ridge of humerus",
-                "distal end of radius"
+                "humerus (supraepicondylar ridge)",
+                "radius (distal end)"
             ],
             "actions": [
                 "forearm flexion"
@@ -2123,8 +2162,8 @@
                 "hand digit 2-5"
             ],
             "actions": [
-                "hand digit 2-5 extension at MCP joints",
-                "secondary extension at IP joints"
+                "hand digit 2-5 extension at MCP joint",
+                "hand digit 2-5 extension at IP joint"
             ],
             "innervations": [
                 "deep branch of radial n."
@@ -2146,8 +2185,8 @@
                 "hand digit 5"
             ],
             "actions": [
-                "hand digit 5 extension at MCP joints",
-                "secondary extension at IP joints"
+                "hand digit 5 extension at MCP joint",
+                "hand digit 5 extension at IP joint"
             ],
             "innervations": [
                 "deep branch of radial n."
@@ -2233,7 +2272,7 @@
             "notes": []
         },
         {
-            "name": "abductor pollicus longus",
+            "name": "abductor pollicis longus",
             "section": "forearm",
             "compartment": "posterior",
             "attachments": [
@@ -2243,8 +2282,8 @@
                 "base of metacarpal 1"
             ],
             "actions": [
-                "pollicus abduction",
-                "pollicus extension at CMC joint"
+                "pollex abduction at MCP joint",
+                "pollex extension at CMC joint"
             ],
             "innervations": [
                 "posterior interosseous n."
@@ -2258,7 +2297,7 @@
             "notes": []
         },
         {
-            "name": "extensor pollicus longus",
+            "name": "extensor pollicis longus",
             "section": "forearm",
             "compartment": "posterior",
             "attachments": [
@@ -2267,9 +2306,9 @@
                 "base of metacarpal 1"
             ],
             "actions": [
-                "pollicus distal phalanx extension at IP joint",
-                "pollicus MCP extension",
-                "pollicus CMC extension"
+                "pollex distal phalanx extension at IP joint",
+                "pollex extension at MCP joint",
+                "pollex extension at CMC joint"
             ],
             "innervations": [
                 "posterior interosseous n."
@@ -2285,18 +2324,18 @@
             ]
         },
         {
-            "name": "extensor pollicus brevis",
+            "name": "extensor pollicis brevis",
             "section": "forearm",
             "compartment": "posterior",
             "attachments": [
                 "distal 1/3 of radius",
                 "interosseous membrane",
-                "base of proximal phalanx of pollicus"
+                "base of proximal phalanx 1"
             ],
             "actions": [
-                "pollicus proximal phalanx extension at IP joint",
-                "pollicus MCP extension",
-                "pollicus CMC extension"
+                "pollex proximal phalanx extension at IP joint",
+                "pollex extension at MCP joint",
+                "pollex extension at CMC joint"
             ],
             "innervations": [
                 "posterior interosseous n."
@@ -2310,6 +2349,268 @@
             "notes": [
                 "anterior border of anatomical snuff box, which contains radial artery and extensor carpi radialis longus tendon"
             ]
+        },
+        {
+            "name": "opponens pollicis",
+            "section": "hand",
+            "compartment": "thenar",
+            "attachments": [
+                "flexor retinaculum",
+                "scaphoid",
+                "trapezium",
+                "lateral side of metacarpal 1"
+            ],
+            "actions": [
+                "pollex opposition"
+            ],
+            "innervations": [
+                "recurrent branch of the median n."
+            ],
+            "blood supply": [
+                "superficial palmar branch of radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "abductor pollicis brevis",
+            "section": "hand",
+            "compartment": "thenar",
+            "attachments": [
+                "flexor retinaculum",
+                "base of proximal phalanx 1"
+            ],
+            "actions": [
+                "pollex abduction at MCP joint"
+            ],
+            "innervations": [
+                "recurrent branch of the median n."
+            ],
+            "blood supply": [
+                "superficial palmar branch of radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor pollicis brevis (superficial head)",
+            "section": "hand",
+            "compartment": "thenar",
+            "attachments": [
+                "flexor retinaculum",
+                "base of proximal phalanx 1"
+            ],
+            "actions": [
+                "pollex flexion"
+            ],
+            "innervations": [
+                "recurrent branch of the median n."
+            ],
+            "blood supply": [
+                "superficial palmar branch of radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor pollicis brevis (deep head)",
+            "section": "hand",
+            "compartment": "thenar",
+            "attachments": [
+                "flexor retinaculum",
+                "base of proximal phalanx 1"
+            ],
+            "actions": [
+                "pollex flexion"
+            ],
+            "innervations": [
+                "deep branch of ulnar n."
+            ],
+            "blood supply": [
+                "superficial palmar branch of radial a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "abductor digiti minimi",
+            "section": "hand",
+            "compartment": "hypothenar",
+            "attachments": [
+                "pisiform",
+                "ulnar border of proximal phalanx 5"
+            ],
+            "actions": [
+                "hand digit 5 abduction"
+            ],
+            "innervations": [
+                "deep branch of the ulnar n."
+            ],
+            "blood supply": [
+                "superficial palmar branch of ulnar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "flexor digiti minimi brevis",
+            "section": "hand",
+            "compartment": "hypothenar",
+            "attachments": [
+                "hook of hamate",
+                "flexor retinaculum",
+                "base of proximal phalanx 5"
+            ],
+            "actions": [
+                "hand digit 5 flexion at MCP joint"
+            ],
+            "innervations": [
+                "deep branch of the ulnar n."
+            ],
+            "blood supply": [
+                "superficial palmar branch of ulnar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "opponens digiti minimi",
+            "section": "hand",
+            "compartment": "hypothenar",
+            "attachments": [
+                "hook of hamate",
+                "flexor retinaculum",
+                "ulnar border of metacarpal 5"
+            ],
+            "actions": [
+                "hand digit 5 opposition"
+            ],
+            "innervations": [
+                "deep branch of the ulnar n."
+            ],
+            "blood supply": [
+                "superficial palmar branch of ulnar a."
+            ],
+            "notes": []
+        },
+        {
+            "name": "lumbricals (1-2)",
+            "section": "hand",
+            "compartment": "central",
+            "attachments": [
+                "lateral 2 tendons of digitorum profundus",
+                "hand digits 2-3"
+            ],
+            "actions": [
+                "hand digit 2-3 flexion at MCP joint",
+                "hand digit 2-3 extension at IP joint"
+            ],
+            "innervations": [
+                "median n."
+            ],
+            "blood supply": [
+                "superficial palmar arch"
+            ],
+            "notes": []
+        },
+        {
+            "name": "lumbricals (3-4)",
+            "section": "hand",
+            "compartment": "central",
+            "attachments": [
+                "medial 3 tendons of flexor digitorum profundus",
+                "hand digits 4-5"
+            ],
+            "actions": [
+                "hand digit 4-5 flexion at MCP joint",
+                "hand digit 4-5 extension at IP joint"
+            ],
+            "innervations": [
+                "deep branch of ulnar n."
+            ],
+            "blood supply": [
+                "superficial palmar arch"
+            ],
+            "notes": []
+        },
+        {
+            "name": "dorsal interossei (1-4)",
+            "section": "hand",
+            "compartment": "interossei",
+            "attachments": [
+                "adjacent sides of 2 metacarpals",
+                "base of proximal phalanges 2-5"
+            ],
+            "actions": [
+                "hand digit 2-4 abduction",
+                "hand digit 2-4 flexion at MCP joint",
+                "hand digit 2-4 extension at IP joint"
+            ],
+            "innervations": [
+                "deep branch of ulnar n."
+            ],
+            "blood supply": [
+                "deep palmar arch"
+            ],
+            "notes": [
+                "acts with lumbricals"
+            ]
+        },
+        {
+            "name": "palmar interossei (1-3)",
+            "section": "hand",
+            "compartment": "interossei",
+            "attachments": [
+                "palmar surfaces of metacarpals 2, 4, 5",
+                "base of proximal phalanges 2, 4, 5"
+            ],
+            "actions": [
+                "hand digit 2, 4, 5 adduction",
+                "hand digit 2, 4, 5 flexion at MCP joint",
+                "hand digit 2, 4, 5 extension at IP joint"
+            ],
+            "innervations": [
+                "deep branch of ulnar n."
+            ],
+            "blood supply": [
+                "deep palmar arch"
+            ],
+            "notes": [
+                "acts with lumbricals"
+            ]
+        },
+        {
+            "name": "adductor pollicis (oblique head)",
+            "section": "hand",
+            "compartment": "adductor",
+            "attachments": [
+                "base of metacarpal 2-3",
+                "capitate",
+                "carpals to proximal phalanx 1"
+            ],
+            "actions": [
+                "pollex adduction"
+            ],
+            "innervations": [
+                "deep branch of ulnar n."
+            ],
+            "blood supply": [
+                "deep palmar arch"
+            ],
+            "notes": []
+        },
+        {
+            "name": "adductor pollicis (transverse head)",
+            "section": "hand",
+            "compartment": "adductor",
+            "attachments": [
+                "shaft of metacarpal 3",
+                "base of proximal phalanx 1"
+            ],
+            "actions": [
+                "pollex adduction"
+            ],
+            "innervations": [
+                "deep branch of ulnar n."
+            ],
+            "blood supply": [
+                "deep palmar arch"
+            ],
+            "notes": []
         }
     ]
 }
